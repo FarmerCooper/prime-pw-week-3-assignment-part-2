@@ -34,10 +34,12 @@ for (let h=2; h<12; h+= 2) {
   console.log(h);
 }
 
-
 // 1.d. (STRETCH) TODO: Write a for loop to do a countdown from 5 to 0
 // console.log('STRETCH: countdown from 5 to 0');
 
+for (let l=5; l>-1; l--) {
+  console.log(l);
+}
 
 // 2. For of loops  
 console.log('---- 2. For Of loop ----');
